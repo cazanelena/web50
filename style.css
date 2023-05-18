@@ -44,4 +44,22 @@ nav {
     box-shadow: none;
     border-radius: 25px;
     width: 638px;
+    padding: 20px;
 }
+.button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    line-height: 27px;
+    height: 36px;
+}
+.button:hover {
+    border: 1px solid #aeb3b7;
+}
+
